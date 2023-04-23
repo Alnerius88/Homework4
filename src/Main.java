@@ -9,6 +9,7 @@ public class Main {
         task5 ();
         task6 ();
         task7 ();
+        System.out.println("Горлица тихо курлыкает на шкафу.");
     }
     public static void task1 () {
         System.out.println("Задача 1");
